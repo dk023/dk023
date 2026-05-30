@@ -6,9 +6,6 @@
 
 <br>
 
-[![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=dk023.dk023&color=00D4FF)](https://github.com/dk023)
-[![GitHub Follow](https://img.shields.io/github/followers/dk023?style=social&color=00D4FF)](https://github.com/dk023)
-
 <br>
 
 [🔗 LinkedIn](https://linkedin.com/in/k-dharani-kumar-1706aa34b) • 
@@ -133,15 +130,6 @@ Mindset: Always learning • Always building • Always improving
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dk023&theme=radical&hide_border=true&stroke=00D4FF)
-
-</div>
-
----
 
 ## 🎓 Currently Learning
 
